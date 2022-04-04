@@ -1,26 +1,27 @@
 {
-    "name": "social-network-api-1400",
-    "version": "1.0.0",
-    "description": "",
-    "main": "server.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "nodemon server.js"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/nmemarcoding/Social-Network-API-1400.git"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/nmemarcoding/Social-Network-API-1400/issues"
-    },
-    "homepage": "https://github.com/nmemarcoding/Social-Network-API-1400#readme",
-    "dependencies": {
-        "express": "^4.17.3",
-        "mongoose": "^5.13.2",
-        "nodemon": "^2.0.15"
-    }
+  "name": "social-network-api-1400",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.2",
+    "nodemon": "^2.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmemarcoding/Social-Network-API-1400.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+      "url": "https://github.com/nmemarcoding/Social-Network-API-1400/issues"
+  },
+  "homepage": "https://github.com/nmemarcoding/Social-Network-API-1400#readme"
 }
