@@ -11,8 +11,7 @@ SO THAT my website can handle large amounts of unstructured data
 
 
 This video demonstrates GET, POST, PUT, and DELETE methods for users and thoughts, and the POST and DELETE methods for reactions and friends using Insomnia.
-![image](<img width="1275" alt="Screen Shot 2022-04-04 at 12 33 48 PM" src="https://user-images.githubusercontent.com/94582549/161618530-5356f270-ddf5-4ef7-b1cd-dbb7366f070a.png">
-)
+<img width="1275" alt="Screen Shot 2022-04-04 at 12 33 48 PM" src="https://user-images.githubusercontent.com/94582549/161618530-5356f270-ddf5-4ef7-b1cd-dbb7366f070a.png">
 
 ## Installation 
 * Clone GitHub repository
