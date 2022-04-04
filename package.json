@@ -20,7 +20,7 @@
     "homepage": "https://github.com/nmemarcoding/Social-Network-API-1400#readme",
     "dependencies": {
         "express": "^4.17.3",
-        "mongoose": "^6.2.9",
+        "mongoose": "^5.13.2",
         "nodemon": "^2.0.15"
     }
 }
